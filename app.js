@@ -624,13 +624,13 @@
 
 // let time = prompt("Enter time in 24 hours format: ");
 
-// if (time >= 0 && time <= 12) {
+// if (time >= 0 && time <= 1200) {
 //     document.write("<h1>Good morning!</h1>");
-// }else if (time >= 12 && time <= 17) {
+// }else if (time >= 1200 && time <= 1700) {
 //     document.write("<h1>Good afternoon!</h1>");
-// }else if (time >= 17 && time <= 21) {
+// }else if (time >= 1700 && time <= 2100) {
 //     document.write("<h1>Good evening!</h1>");
-// }else if (time >= 21 && time <= 24) {
+// }else if (time >= 2100 && time <= 2300) {
 //     document.write("<h1>Good night!</h1>");
 // }
 
